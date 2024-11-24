@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 import numpy as np
 
-st.header("Books Recommender System Using Machine Learning")
+st.header("Sistem Rekomendasi Buku menggunakan Metode Collaborative Filtering dan Clustering")
 
 model = pickle.load(open('artifacts/model.pkl', 'rb'))
 books_name = pickle.load(open('artifacts/books_name.pkl', 'rb'))
