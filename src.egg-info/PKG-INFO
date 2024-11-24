@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Books Recommender System using Machine Learning
+Home-page: https://github.com/entbappy/Books-Recommender-System-Using-Machine-Learning
+Author: entbappy
+Author-email: entbappy73@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
